@@ -1,0 +1,5 @@
+
+when  kubectl throw "exec plugin: invalid apiVersion"  error delete the kubectl and install the version below
+
+
+curl -O https://s3.us-west-2.amazonaws.com/amazon-eks/1.23.15/2023-01-11/bin/linux/amd64/kubectl

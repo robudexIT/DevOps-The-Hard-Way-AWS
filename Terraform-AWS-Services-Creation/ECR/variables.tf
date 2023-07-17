@@ -1,5 +1,5 @@
 variable repo_name {
   type        = string
-  default     = "devopsthehardway"
+  default     = "robudexdevopsthehardway"
   description = "ECR repo to store a Docker image"
 }

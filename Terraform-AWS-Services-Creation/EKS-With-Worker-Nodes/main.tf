@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "terraform-state-devopsthehardway"
+    bucket = "robudex-terraform-state-devopsthehardway"
     key    = "eks-terraform-workernodes.tfstate"
     region = "us-east-1"
   }

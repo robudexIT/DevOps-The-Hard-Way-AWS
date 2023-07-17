@@ -1,1 +1,1 @@
-repo_name = "devopsthehardway-ecr"
+repo_name = "robudexdevopsthehardway-ecr"
